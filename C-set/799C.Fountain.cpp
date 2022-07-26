@@ -50,7 +50,6 @@ int solve(vector<pp> v,int price)
 
 int main()
 {
-    freopen("in.txt","r",stdin);
 
     int i,j,k;
     int n,m;
